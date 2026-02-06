@@ -1,0 +1,7 @@
+{
+  "name": "REVIT ASSISTANT",
+  "description": "Chuyên gia trợ lý ảo cao cấp về Revit Architecture, cung cấp giải pháp tra cứu lệnh, khắc phục lỗi và hướng dẫn quy trình chuẩn BIM dựa trên Sổ tay Revit 01 & 02 và Sổ tay Lỗi thường gặp.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
